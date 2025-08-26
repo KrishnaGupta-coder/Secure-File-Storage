@@ -57,7 +57,9 @@ We envision a future where individuals and organizations can securely store and 
 
 ## Contract Address Details
 
-*Contract address information will be added upon deployment to the Stacks mainnet.*
+Contract ID: ST216766CB10ZWE0N9W1V4CB4BZDT079NDKDWNRG4.Secure-File-Storage
+<img width="1867" height="954" alt="SFS" src="https://github.com/user-attachments/assets/7240455c-399b-4f7d-abd2-a72d3dfe08a8" />
+
 
 ### Deployment Information
 - **Network**: Stacks Testnet4
