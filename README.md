@@ -63,7 +63,7 @@ We envision a future where individuals and organizations can securely store and 
 - **Network**: Stacks Testnet4
 - **Contract Address**: ST216766CB10ZWE0N9W1V4CB4BZDT079NDKDWNRG4.Secure-File-Storage
 - **Deployment Transaction**: 0x8179f795fe2932e94ee8736aed8334e71a412d11ee474c7986f05a6abf187c28
-- **Deployment Block**: [To be updated]
+- **Deployment Block**: 0xd9b523a032f0cda2e6194e0f776edac82a1ce00e360f8585579a4c55c5caf2ae
 - **Contract Owner**: [To be updated]
 
 ### Usage Instructions
