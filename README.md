@@ -60,9 +60,9 @@ We envision a future where individuals and organizations can securely store and 
 *Contract address information will be added upon deployment to the Stacks mainnet.*
 
 ### Deployment Information
-- **Network**: Stacks Mainnet
-- **Contract Address**: [To be updated]
-- **Deployment Transaction**: [To be updated]
+- **Network**: Stacks Testnet4
+- **Contract Address**: ST216766CB10ZWE0N9W1V4CB4BZDT079NDKDWNRG4.Secure-File-Storage
+- **Deployment Transaction**: 0x8179f795fe2932e94ee8736aed8334e71a412d11ee474c7986f05a6abf187c28
 - **Deployment Block**: [To be updated]
 - **Contract Owner**: [To be updated]
 
